@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khushi-pandey23
-- 👀 I’m interested in Image Processing, Full Stack Development and App development
+- 👀 I’m interested in Machine Learning, Image Processing, Full Stack Development and App development
 - 🌱 I’m currently learning Deep learning
 - 📫 How to reach me : kp2284675@gmail.com
 - 😄 Pronouns: she/her
